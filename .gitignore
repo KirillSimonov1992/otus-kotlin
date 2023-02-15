@@ -1,0 +1,11 @@
+### IntelliJ IDEA ###
+.idea
+.gradle
+!src/*/build/
+
+gradle-app.setting
+
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+/.idea/
