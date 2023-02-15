@@ -1,7 +1,9 @@
 ### IntelliJ IDEA ###
 .idea
+/build/
 .gradle
-!src/*/build/
+/*/build/
+
 
 gradle-app.setting
 
